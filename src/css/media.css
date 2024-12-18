@@ -1,0 +1,351 @@
+@media screen and (max-width: 375px){
+    body{
+        min-width: 100vh;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 90vh;
+        height: 100rem;
+        margin-left: -23rem;
+    }
+
+    .container .titulos {
+        width: 20rem;
+        height: 15rem;
+        margin-right: 2rem;  
+    }
+    
+    .container .titulos .titulo-01 {
+        font-size: 1.3rem;
+        margin-top: 2.5rem;
+    } 
+    .container .titulos .titulo-02 {
+        font-size: 1.3rem;
+    }
+    
+    .container .titulos .descricao {
+        font-size: 0.3rem;
+        text-align: center;
+        font-size: 1rem;
+        margin-top: 1rem;
+    }
+
+    .container .supervisor {
+        margin-top: 4rem;
+        width: 21rem;
+        height: 17rem;
+        margin-right: 4rem;
+    }
+
+    .container .center {
+        width: 21rem;
+        height: 20rem;
+    }
+    .container .supervisor .imagem-supervisor {
+        margin-top: 1.5rem;
+        margin-right: 2rem;
+    }
+    
+    .container .supervisor .imagem-supervisor img {
+        height: 4.0rem;
+    }
+    .container .construtor-de-equipe {
+        width: 21rem;
+        height: 17rem;
+        margin-top: 36rem;
+        margin-right: 37rem;
+    
+    }
+    .container .construtor-de-equipe .imagem-construtor img{
+        height: 3.8rem;
+        margin-top: -2rem;
+    }
+
+    .container .karma {
+        width: 21rem;
+        height: 17rem;
+        margin-right: 36.8rem;
+    }
+    .container .karma .imagem-karma img{
+        height: 4rem;
+        margin-top: -4rem;
+    }
+
+    .container .calculador {
+        width: 21rem;
+        height: 17rem;
+        margin-right: 69rem;
+        margin-top: 54rem;
+    }
+
+    .container .calculador .imagem-calculador img{
+        height: 4rem;
+        margin-top: -3rem;
+    }
+}
+
+@media screen and (max-width: 576px){
+    body{
+        min-width: 100vh;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 90vh;
+        height: 100rem;
+        margin-right: 7rem;
+    }
+
+    .container .titulos {
+        width: 25rem;
+        height: 15rem;
+        margin-right: 2rem;  
+    }
+    
+    .container .titulos .titulo-01 {
+        font-size: 1.3rem;
+        margin-top: 2.5rem;
+    } 
+    .container .titulos .titulo-02 {
+        font-size: 1.3rem;
+    }
+    
+    .container .titulos .descricao {
+        font-size: 1rem;
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .container .supervisor {
+        margin-top: 4rem;
+        width: 22rem;
+        height: 16rem;
+        margin-right: 4rem;
+    }
+
+    .container .center {
+        width: 22rem;
+        height: 16rem;
+    }
+    .container .supervisor .imagem-supervisor {
+        margin-top: 1.5rem;
+        margin-right: 2rem;
+    }
+    
+    .container .supervisor .imagem-supervisor img {
+        height: 4.0rem;
+    }
+    .container .construtor-de-equipe {
+        width: 22rem;
+        height: 16rem;
+        margin-top: 36rem;
+        margin-right: 37rem;
+    
+    }
+    .container .construtor-de-equipe .imagem-construtor img{
+        height: 3.8rem;
+        margin-top: -2rem;
+    }
+
+    .container .karma {
+        width: 22rem;
+        height: 16rem;
+        margin-right: 36.8rem;
+    }
+    .container .karma .imagem-karma img{
+        height: 4rem;
+        margin-top: -4rem;
+    }
+
+    .container .calculador {
+        width: 22rem;
+        height: 16rem;
+        margin-right: 69rem;
+        margin-top: 56.5rem;
+    }
+
+    .container .calculador .imagem-calculador img{
+        height: 4rem;
+        margin-top: -3rem;
+    }
+}
+
+@media screen and (max-width: 768px){
+    body{
+        min-width: 100vh;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 90vh;
+        height: 100rem;
+        margin-left: -15rem;
+    }
+
+    .container .titulos {
+        width: 25rem;
+        height: 15rem;
+        margin-right: 2rem;  
+    }
+    
+    .container .titulos .titulo-01 {
+        font-size: 1.4rem;
+        margin-top: 2.5rem;
+    } 
+    .container .titulos .titulo-02 {
+        font-size: 1.4rem;
+    }
+    
+    .container .titulos .descricao {
+        font-size: 1.1rem;
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .container .supervisor {
+        margin-top: 4rem;
+        width: 25rem;
+        height: 19rem;
+        margin-right: 4rem;
+    }
+
+    .container .center {
+        width: 21rem;
+        height: 20rem;
+    }
+    .container .supervisor .imagem-supervisor {
+        margin-top: 1.5rem;
+        margin-right: 2rem;
+    }
+    
+    .container .supervisor .imagem-supervisor img {
+        height: 4.0rem;
+    }
+    .container .construtor-de-equipe {
+        width: 25rem;
+        height: 19rem;
+        margin-top: 36rem;
+        margin-right: 37rem;
+    
+    }
+    .container .construtor-de-equipe .imagem-construtor img{
+        height: 3.8rem;
+        margin-top: -2rem;
+    }
+
+    .container .karma {
+        width: 25rem;
+        height: 19rem;
+        margin-right: 36.8rem;
+    }
+    .container .karma .imagem-karma img{
+        height: 4rem;
+        margin-top: -4rem;
+    }
+
+    .container .calculador {
+        width: 25rem;
+        height: 19rem;
+        margin-right: 69rem;
+        margin-top: 56.5rem;
+    }
+
+    .container .calculador .imagem-calculador img{
+        height: 4rem;
+        margin-top: -3rem;
+    }
+}
+
+@media screen and (max-width: 992px){
+    body{
+        min-width: 100vh;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 90vh;
+        height: 110rem;
+        margin-left: -3rem;
+    }
+
+    .container .titulos {
+        width: 30rem;
+        height: 15rem;
+        margin-right: 2rem;  
+    }
+    
+    .container .titulos .titulo-01 {
+        font-size: 1.5rem;
+        margin-top: 2.5rem;
+    } 
+    .container .titulos .titulo-02 {
+        font-size: 1.5rem;
+    }
+    
+    .container .titulos .descricao {
+        font-size: 1.2rem;
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .container .supervisor {
+        margin-top: 4rem;
+        width: 30rem;
+        height: 22rem;
+        margin-right: 4rem;
+    }
+
+    .container .center {
+        width: 21rem;
+        height: 20rem;
+    }
+    .container .supervisor .imagem-supervisor {
+        margin-top: 1.5rem;
+        margin-right: 2rem;
+    }
+    
+    .container .supervisor .imagem-supervisor img {
+        height: 4.0rem;
+    }
+    .container .construtor-de-equipe {
+        width: 30rem;
+        height: 22rem;
+        margin-top: 36rem;
+        margin-right: 37rem;
+    
+    }
+    .container .construtor-de-equipe .imagem-construtor img{
+        height: 3.8rem;
+        margin-top: -2rem;
+    }
+
+    .container .karma {
+        width: 30rem;
+        height: 22rem;
+        margin-right: 36.8rem;
+    }
+    .container .karma .imagem-karma img{
+        height: 4rem;
+        margin-top: -4rem;
+    }
+
+    .container .calculador {
+        width: 30rem;
+        height: 20rem;
+        margin-right: 69rem;
+        margin-top: 58rem;
+    }
+
+    .container .calculador .imagem-calculador img{
+        height: 4rem
+    }
+}
